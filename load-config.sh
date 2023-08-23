@@ -1,1 +1,1 @@
-cp -r ../configs/discord-welcome/*
+cp -r ../configs/discord-welcome/* .
